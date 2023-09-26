@@ -1,0 +1,22 @@
+venv
+.env
+.idea
+database/
+__pycache__/
+.vscode/
+db.sqlite3
+scripts
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### macOS ###
+.DS_Store/
+/.DS_Store
+/.DS_Store/
+/commands
+/temp.py
+/main/settings_dev.py
+/dump.rdb
